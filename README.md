@@ -2,7 +2,7 @@
 
 A full-stack web application for uploading PDF files and extracting their text content, with upload history stored in PostgreSQL.
 
-Note: The use case of images turned pdf files has not been considered for this project. Currently this demo project allows extraction of pdf with only text. Further extensions can be configured for scalability.nmp
+Note: The use case of images turned pdf files has not been considered for this project. Currently this demo project allows extraction of pdf with only text. Further extensions can be configured for scalability.
 
 ## Features
 
